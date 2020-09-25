@@ -1,4 +1,4 @@
-# blip-cripts
+# blip-scripts
 
 blip-scripts is a repo with my python automation scripts. Trying to make BLIP easy again. 
 
