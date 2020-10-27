@@ -1,7 +1,6 @@
 from blip_session import BlipSession
 import uuid
 import json 
-import time
 import csv
 import os
 
