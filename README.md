@@ -10,7 +10,7 @@ An example is [blip-session](https://github.com/chr0m1ng/blip-session) that prov
 
 To install use:
 ```bash
-pip install blip-session
+pip install blip_session
 ```
 
 ## Usage
