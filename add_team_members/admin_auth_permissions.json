@@ -1,0 +1,43 @@
+[
+    { "permissionClaim": 112, "permissionAction": 3, "id": "team" },
+    { "permissionClaim": 101, "permissionAction": 3, "id": "payments" },
+    {
+        "permissionClaim": 102,
+        "permissionAction": 3,
+        "id": "ai-providers"
+    },
+    { "permissionClaim": 103, "permissionAction": 3, "id": "ai-model" },
+    {
+        "permissionClaim": 104,
+        "permissionAction": 3,
+        "id": "ai-enhancement"
+    },
+    { "permissionClaim": 105, "permissionAction": 3, "id": "channels" },
+    { "permissionClaim": 107, "permissionAction": 3, "id": "users" },
+    {
+        "permissionClaim": 108,
+        "permissionAction": 3,
+        "id": "scheduler"
+    },
+    {
+        "permissionClaim": 109,
+        "permissionAction": 3,
+        "id": "config-basicConfigurations"
+    },
+    {
+        "permissionClaim": 110,
+        "permissionAction": 3,
+        "id": "config-connectionInformation"
+    },
+    {
+        "permissionClaim": 111,
+        "permissionAction": 3,
+        "id": "resources"
+    },
+    {
+        "permissionClaim": 113,
+        "permissionAction": 3,
+        "id": "logMessages"
+    },
+    { "permissionClaim": 115, "permissionAction": 3, "id": "analysis" }
+]

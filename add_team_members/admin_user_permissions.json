@@ -1,0 +1,67 @@
+[
+    {
+        "permissionId": "team",
+        "actions": ["read", "write"],
+        "userIdentity": "gabrielrsantoss%40icloud.com@blip.ai"
+    },
+    {
+        "permissionId": "payments",
+        "actions": ["read", "write"],
+        "userIdentity": "gabrielrsantoss%40icloud.com@blip.ai"
+    },
+    {
+        "permissionId": "ai-providers",
+        "actions": ["read", "write"],
+        "userIdentity": "gabrielrsantoss%40icloud.com@blip.ai"
+    },
+    {
+        "permissionId": "ai-model",
+        "actions": ["read", "write"],
+        "userIdentity": "gabrielrsantoss%40icloud.com@blip.ai"
+    },
+    {
+        "permissionId": "ai-enhancement",
+        "actions": ["read", "write"],
+        "userIdentity": "gabrielrsantoss%40icloud.com@blip.ai"
+    },
+    {
+        "permissionId": "channels",
+        "actions": ["read", "write"],
+        "userIdentity": "gabrielrsantoss%40icloud.com@blip.ai"
+    },
+    {
+        "permissionId": "users",
+        "actions": ["read", "write"],
+        "userIdentity": "gabrielrsantoss%40icloud.com@blip.ai"
+    },
+    {
+        "permissionId": "scheduler",
+        "actions": ["read", "write"],
+        "userIdentity": "gabrielrsantoss%40icloud.com@blip.ai"
+    },
+    {
+        "permissionId": "config-basicConfigurations",
+        "actions": ["read", "write"],
+        "userIdentity": "gabrielrsantoss%40icloud.com@blip.ai"
+    },
+    {
+        "permissionId": "config-connectionInformation",
+        "actions": ["read", "write"],
+        "userIdentity": "gabrielrsantoss%40icloud.com@blip.ai"
+    },
+    {
+        "permissionId": "resources",
+        "actions": ["read", "write"],
+        "userIdentity": "gabrielrsantoss%40icloud.com@blip.ai"
+    },
+    {
+        "permissionId": "logMessages",
+        "actions": ["read", "write"],
+        "userIdentity": "gabrielrsantoss%40icloud.com@blip.ai"
+    },
+    {
+        "permissionId": "analysis",
+        "actions": ["read", "write"],
+        "userIdentity": "gabrielrsantoss%40icloud.com@blip.ai"
+    }
+]
