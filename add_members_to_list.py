@@ -1,7 +1,7 @@
 from requests import Session
 from uuid import uuid4
 
-AUTH_KEY = 'Key'
+AUTH_KEY = '<BOT_KEY>'
 LIST_NAME = 'list@broadcast.msging.net'
 
 members = [

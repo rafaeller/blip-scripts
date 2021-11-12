@@ -3,9 +3,9 @@ import time
 
 lista_templates = ["TEMPLATE_ID"]
 
-my_auth_key = 'BOT_KEY'
+my_auth_key = '<BOT_KEY>'
 
-contract_id = 'blip-cda'
+contract_id = '<CONTRACT>'
 
 bs = BlipSession(my_auth_key, contract_id)
 

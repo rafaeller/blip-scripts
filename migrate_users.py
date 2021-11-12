@@ -1,7 +1,7 @@
 from blip_session import BlipSession
 
-bot_auth_key = 'source key'
-router_auth_key = 'destination key'
+bot_auth_key = '<SOURCE_BOT_KEY>'
+router_auth_key = '<DESTINATION_BOT_KEY>'
 
 bot_client = BlipSession(bot_auth_key)
 router_client = BlipSession(router_auth_key)
@@ -43,7 +43,7 @@ def set_context_value(identity, name, value, mime_type, client):
 
 contacts = bot_client.process_command({
     'method': 'get',
-    'uri': '/contacts?$take=9999'
+    'uri': '/contacts?$take=99999'
 })['resource']['items']
 print(f'found {len(contacts)} contacts')
 

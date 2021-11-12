@@ -3,7 +3,7 @@ import json
 from requests import post
 from uuid import uuid4
 
-bot_authorization = 'Key '
+bot_authorization = '<BOT_KEY>'
 
 commands_url = 'https://msging.net/commands'
 

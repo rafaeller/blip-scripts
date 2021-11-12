@@ -1,8 +1,8 @@
 from blip_session import BlipSession
 
 # Fill with bot authorization key and user identity
-BOT_AUTHORIZATION = 'Key Y2VsdWxhcGFwYTp6cE5sdVhYZ3g1VkZ5dlE3dGdwNQ=='
-USER_IDENTITY = '553173591233@wa.gw.msging.net'
+BOT_AUTHORIZATION = '<KEY>'
+USER_IDENTITY = '<IDENTITY>'
 
 DELETE_METHOD = 'delete'
 GET_METHOD = 'get'
